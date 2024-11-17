@@ -1,0 +1,38 @@
+.main{
+    background-image: url('download.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    text-align: center;
+
+}
+.heading{
+    padding-left:130px;
+    padding-right: 130px;
+    margin:8px;
+}
+.himage{
+    height:30vh;
+    width:30vh;
+    margin:10px;
+}
+.fast{
+    font-size:46px;
+}
+.boximage{
+    height:130px;
+    width:130px;
+    margin:8px;
+}
+p{
+    font-size: 24px;
+}
+.feast{
+    border:solid 2px white;
+    width: 450px;
+    margin-left:32vw;
+    margin-right:34vw;
+}
+.v{
+    color:black;
+}
